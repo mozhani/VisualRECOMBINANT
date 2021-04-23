@@ -8,7 +8,7 @@ Concepts are considered as the basic mental representations, and their inconsist
 - The VisualRECOMBINANT reviews her memories to recall the most related episodes in her episodic memory based on Bell inequality to measur quantum entanglement. Why? It's a measure to assess the potentiality of the emergence of new meanings based on the stimulus.
 
 ## Sample Result
-
+!['war, kid' combination result](https://github.com/mozhani/VisualRECOMBINANT/blob/main/image.png)
 
 
 
