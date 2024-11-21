@@ -18,7 +18,7 @@ Concepts are considered as the basic mental representations, and their inconsist
 >>
 >>#### Table 4: Results obtained from the query `war kid`
 >>
->>| Query 1     | α      | Extracted Concept/Expression | Score   | Query 1    | α      | Extracted Concept/Expression | Score  |
+>>| Query 1     | α      | Extracted Concept/Expression   | Score     | Query 1     | α      | Extracted Concept/Expression    | Score     |
 >>|-------------|--------|--------------------------------|-----------|-------------|--------|---------------------------------|-----------|
 >>| War, kid    | 0.1    | Kid                           | 1.007755  | War, kid    | 0.1    | Young kid                      | 1.175520  |
 >>| War, kid    | 0.1    | War plane                     | 1.288066  | War, kid    | 0.1    | War shortage                   | 1.328281  |
@@ -32,6 +32,6 @@ Concepts are considered as the basic mental representations, and their inconsist
 >>| War, kid    | 0.1    | Old animal                    | 1.801590  | War, kid    | 0.1    | Deal nation                    | 1.813097  |
 >>
 ## About Me
-My name is Mozhdeh Ahrabi Tabriz, and I am about to graduate with a master degree in Artificial Intelligence track at [Iran University of Science and Technology](https://iust.ac.ir). I am enthusiastic about cognitive processes, particularly the creative processes. 
+My name is Mozhdeh Ahrabi Tabriz, and I have graduated with a master degree in Artificial Intelligence track from [Iran University of Science and Technology](https://iust.ac.ir). I am enthusiastic about cognitive processes, particularly the creative processes. 
 
 Email: m_ahrabitabriz@alumuni.iust.ac.ir
