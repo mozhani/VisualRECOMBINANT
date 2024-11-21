@@ -7,6 +7,8 @@ Concepts are considered as the basic mental representations, and their inconsist
 - Triger the VisualRECOMBINANT by a stimulus consisting two concepts separated by comma, e.g. 'war, kid'
 - The VisualRECOMBINANT reviews her memories to recall the most related episodes in her episodic memory based on Bell inequality to measur quantum entanglement. Why? It's a measure to assess the potentiality of the emergence of new meanings based on the stimulus.
 
+- Read more on: https://scientiairanica.sharif.edu/article_23315_9a515211a86bc98820b1ea20cdf60628.pdf
+
 ## Sample Result
 !['war, kid' combination result](https://github.com/mozhani/VisualRECOMBINANT/blob/main/image.png)
 
