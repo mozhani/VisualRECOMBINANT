@@ -33,6 +33,7 @@ Concepts are considered as the basic mental representations, and their inconsist
 >>| War, kid    | 0.1    | Suicidal thought              | 1.792821  | War, kid    | 0.1    | Young people                   | 1.793872  |
 >>| War, kid    | 0.1    | Old animal                    | 1.801590  | War, kid    | 0.1    | Deal nation                    | 1.813097  |
 >>
+>> </div>
 ## About Me
 My name is Mozhdeh Ahrabi Tabriz, and I have graduated with a master degree in Artificial Intelligence track from [Iran University of Science and Technology](https://iust.ac.ir). I am enthusiastic about cognitive processes, particularly the creative processes. 
 
