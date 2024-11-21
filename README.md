@@ -37,3 +37,4 @@ Concepts are considered as the basic mental representations, and their inconsist
 My name is Mozhdeh Ahrabi Tabriz, and I have graduated with a Master's degree in Artificial Intelligence track and a Bachelor's degree in Software track, both from [Iran University of Science and Technology](https://iust.ac.ir). I am enthusiastic about cognitive processes, particularly the creative processes. 
 
 Email: m_ahrabitabriz@alumuni.iust.ac.ir
+       m.ahrabi.tabriz.iust@gmail.com
