@@ -19,7 +19,7 @@ Concepts are considered as the basic mental representations, and their inconsist
 >
 >#### Table 4: Results obtained from the query `war kid`
 >
-> <div style="font-size: 5px">
+> <div style="font-size: 5px;">
 >| Query       | α      | Extracted Concept/Expression   | Score     | Query       | α      | Extracted Concept/Expression    | Score     |
 >|-------------|--------|--------------------------------|-----------|-------------|--------|---------------------------------|-----------|
 >| War, kid    | 0.1    | Kid                           | 1.007755  | War, kid    | 0.1    | Young kid                      | 1.175520  |
