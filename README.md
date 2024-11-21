@@ -17,28 +17,18 @@ Concepts are considered as the basic mental representations, and their inconsist
 
 #### Table 4: Results obtained from the query `war kid`
 
-| Query       | `α` | Extracted Concept/Expression | Score     |
-|-------------|------|-----------------------------|-----------|
-| War, kid    | 0.1  | Kid                         | 1.007755  |
-| War, kid    | 0.1  | Young kid                   | 1.175520  |
-| War, kid    | 0.1  | War plane                   | 1.288066  |
-| War, kid    | 0.1  | War shortage                | 1.328281  |
-| War, kid    | 0.1  | Kid protest                 | 1.366631  |
-| War, kid    | 0.1  | Child                       | 1.521401  |
-| War, kid    | 0.1  | Soldier                     | 1.553520  |
-| War, kid    | 0.1  | Dad                         | 1.611623  |
-| War, kid    | 0.1  | Fight                       | 1.674464  |
-| War, kid    | 0.1  | Paint damage child          | 1.705422  |
-| War, kid    | 0.1  | Tween                       | 1.722463  |
-| War, kid    | 0.1  | Young player                | 1.746632  |
-| War, kid    | 0.1  | Whose mom                   | 1.778314  |
-| War, kid    | 0.1  | Grandparent                 | 1.780024  |
-| War, kid    | 0.1  | Young                       | 1.786975  |
-| War, kid    | 0.1  | Teen perception             | 1.791293  |
-| War, kid    | 0.1  | Suicidal thought            | 1.792821  |
-| War, kid    | 0.1  | Young people                | 1.793872  |
-| War, kid    | 0.1  | Old animal                  | 1.801590  |
-| War, kid    | 0.1  | Deal nation                 | 1.813097  |
+| Query 1     | α      | Extracted Concept/Expression | Score   | Query 1    | α      | Extracted Concept/Expression | Score  |
+|-------------|--------|--------------------------------|-----------|-------------|--------|---------------------------------|-----------|
+| War, kid    | 0.1    | Kid                           | 1.007755  | War, kid    | 0.1    | Young kid                      | 1.175520  |
+| War, kid    | 0.1    | War plane                     | 1.288066  | War, kid    | 0.1    | War shortage                   | 1.328281  |
+| War, kid    | 0.1    | Kid protest                   | 1.366631  | War, kid    | 0.1    | Child                          | 1.521401  |
+| War, kid    | 0.1    | Soldier                       | 1.553520  | War, kid    | 0.1    | Dad                            | 1.611623  |
+| War, kid    | 0.1    | Fight                         | 1.674464  | War, kid    | 0.1    | Paint damage child             | 1.705422  |
+| War, kid    | 0.1    | Tween                         | 1.722463  | War, kid    | 0.1    | Young player                   | 1.746632  |
+| War, kid    | 0.1    | Whose mom                     | 1.778314  | War, kid    | 0.1    | Grandparent                    | 1.780024  |
+| War, kid    | 0.1    | Young                         | 1.786975  | War, kid    | 0.1    | Teen perception                | 1.791293  |
+| War, kid    | 0.1    | Suicidal thought              | 1.792821  | War, kid    | 0.1    | Young people                   | 1.793872  |
+| War, kid    | 0.1    | Old animal                    | 1.801590  | War, kid    | 0.1    | Deal nation                    | 1.813097  |
 
 ## About Me
 My name is Mozhdeh Ahrabi Tabriz, and I am about to graduate with a master degree in Artificial Intelligence track at [Iran University of Science and Technology](https://iust.ac.ir). I am enthusiastic about cognitive processes, particularly the creative processes. 
